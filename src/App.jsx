@@ -12,7 +12,7 @@ const UploadComponent = () => {
         </a>
         <a href='https://teacher.tatu-module.uz/'>
           <img src={teacherImg} className='h-[200px]' />
-          <button className="slide">O'quvchi</button>
+          <button className="slide">O'qituvchi</button>
         </a>
       </div>
     </div>
